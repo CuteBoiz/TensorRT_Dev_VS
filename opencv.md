@@ -101,20 +101,20 @@
 - Set Path:
   - Open `Window + R` type `sysdm.cpl`
   - Open `Advanced` Tab.
-  - `Environment Variables...`
-  
-  <p align="center">
-    <img width=470 height=500 src="">
-  </p>
-  
+  - `Environment Variables...`  
   -  In `System Variables` Tab find `Path`:
   
+    <p align="center">
+      <img width=490 height=500 src="https://i.imgur.com/6CYg60Q.png">
+    </p>
+  
+  - Click `New` and Add the OpenCV_Directory/build/install/x64/vc15/bin 
+  
   <p align="center">
-    <img width=470 height=500 src="">
+    <img width=600 height=500 src="https://i.imgur.com/v97CPZq.png">
   </p>
   
-  -  `New` and Add the OpenCV_Directory/build/install/x64/vc15/bin 
-  -  Ok 
-  -  Apply
+  -  `Ok` 
+  -  `Apply`
   
 - Done!
