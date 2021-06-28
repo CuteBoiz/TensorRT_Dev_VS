@@ -9,10 +9,14 @@
 - Check `Add Python 3.x to PATH`
 - `Install Now`
 
-<img style="vertical-align:middle;"  width=580 height=350 src="https://i.imgur.com/tHhUKFh.png">
+<p align="center">
+  <img width=580 height=350 src="https://i.imgur.com/tHhUKFh.png">
+</p>
 
 - `Disable path length limit`
 
-<img style="vertical-align:middle;"  width=580 height=350 src="https://i.imgur.com/0IsP2yd.png">
+<p align="center">
+  <img width=580 height=350 src="https://i.imgur.com/0IsP2yd.png">
+</p>
 
 - `Close`
