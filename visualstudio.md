@@ -20,11 +20,11 @@
 - Chose `Not now, maybe later`
 
 <p align="center">
-  <img  width=280 height=350 src="https://i.imgur.com/3A5uHSy.png">
+  <img  width="30%" height="30%" src="https://i.imgur.com/3A5uHSy.png">
 </p>
 
 - `Start Visual Studio`
 
 <p align="center">
-  <img  width=280 height=350 src="https://i.imgur.com/iJRPdcD.png">
+  <img width="30%" height="30%" src="https://i.imgur.com/iJRPdcD.png">
 </p>
