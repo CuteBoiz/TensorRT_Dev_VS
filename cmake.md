@@ -10,13 +10,13 @@
 - `Next`.
 
 <p align="center">
-  <img width=450 height=350 src="https://i.imgur.com/fnzAo8N.png">  
+  <img width="50%" height="50%" src="https://i.imgur.com/fnzAo8N.png">  
 </p>
 
 - Select `Add Cmake to the system PATH for all users` then click `Next`.
 
 <p align="center">
-  <img width=450 height=350 src="https://i.imgur.com/SHWfwLJ.png">  
+  <img width="50%" height="50%" src="https://i.imgur.com/SHWfwLJ.png">  
 </p>
 
 - Install and Finish.
