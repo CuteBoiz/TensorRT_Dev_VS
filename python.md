@@ -10,13 +10,13 @@
 - `Install Now`
 
 <p align="center">
-  <img width=580 height=350 src="https://i.imgur.com/tHhUKFh.png">
+  <img width="50%" height="50%" src="https://i.imgur.com/tHhUKFh.png">
 </p>
 
 - `Disable path length limit`
 
 <p align="center">
-  <img width=580 height=350 src="https://i.imgur.com/0IsP2yd.png">
+  <img width="50%" height="50%" src="https://i.imgur.com/0IsP2yd.png">
 </p>
 
 - `Close`
