@@ -14,4 +14,4 @@
 ### II.Install.
 
 - Extract downloaded file at where you want to install.
-- Move all **dll files** in lib folder to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin\.
+- Move all **dll files** in lib folder to `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin\`.
