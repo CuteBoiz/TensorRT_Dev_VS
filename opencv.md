@@ -64,7 +64,7 @@
 
 - Select `CUDA_FAST_MATH`.
 
-- In CUDA_ARCH_BIN select compatible compute architectures for your model of GPU or all. Check the Compute capability (version) table [here](https://en.wikipedia.org/wiki/CUDA)
+- In `CUDA_ARCH_BIN` select compatible compute architectures for your model of GPU or all. Check the Compute capability (version) table [here](https://en.wikipedia.org/wiki/CUDA)
 <p align="center">
   <img width="50%" height="50%" src="https://i.imgur.com/4I3aZJb.png">
 </p>
@@ -83,18 +83,18 @@
   <img src="https://i.imgur.com/ciyy7ry.png">
 </p>
 
-- Open solution explorer at right hand side. Expand the CmakeTargets. Right click on `ALL_BUILD` and select `build`.
+- Open solution explorer at right hand side. Expand the `CmakeTargets`. Right click on `ALL_BUILD` and select `build`.
 <p align="center">
   <img  src="https://i.imgur.com/p02uyCX.png">
 </p>
 
-- Wait `ALL_BUILD` building complete. Then build the `INSTALL`.
+- Wait `ALL_BUILD` building to generate opencv library compelete. Then `build` the `INSTALL` below to install.
 - Set Path:
   - Open `Window + R` type `sysdm.cpl`
   
   - Open `Advanced` Tab.
   
-  - `Environment Variables...`  
+  - Click `Environment Variables...`  
   
   -  In `System Variables` Tab find `Path`:
     <p align="center">
@@ -108,6 +108,6 @@
   
   -  `Ok` 
   
-  -  `Apply`
+  -  `Apply` - `Ok`
   
 - Done!
